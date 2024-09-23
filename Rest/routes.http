@@ -1,0 +1,14 @@
+##Local
+##Get all users
+GET HTTP://LOCALHOST:3000/users
+
+###Get contact by id
+GET HTTP://LOCALHOST:3000/users/66efad272954fdde3c23a36c
+
+###Render
+###Get all users
+GET https://cse-341-project1-om3u.onrender.com/users
+
+###Get contact by id
+GET https://cse-341-project1-om3u.onrender.com/users/66efad272954fdde3c23a36c
+
